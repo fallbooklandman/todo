@@ -13,7 +13,7 @@ class MyTodoApp extends StatelessWidget {
       title: 'My Todo App',
       theme: ThemeData(
         // テーマカラー
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.red,
       ),
       // リスト一覧画面を表示
       home: TodoListPage(),
